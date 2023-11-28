@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: cosign-cli-2-2
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhtas-tenant/cli-1-0-gamma/cosign-cli-2-2@sha256:b88dad968eb12e44f9ff3b3965240f8e2818e1182abc79b8be6610451aff5114
+      - image: quay.io/redhat-user-workloads/rhtas-tenant/cli-1-0-gamma/cosign-cli-2-2@sha256:788b701228298fb148e126fea6218705a8914039356c01c68fc8bcef0e0a5357
         imagePullPolicy: Always
         name: container-image
         ports:
