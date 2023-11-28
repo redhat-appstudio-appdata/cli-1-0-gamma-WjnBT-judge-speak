@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhtas-tenant/cli-1-0-gamma/cosign-cli-2-2@sha256:b88dad968eb12e44f9ff3b3965240f8e2818e1182abc79b8be6610451aff5114
+      - image: quay.io/redhat-user-workloads/rhtas-tenant/cli-1-0-gamma/cosign-cli-2-2@sha256:465bcd8326b1322bb48129a6e2885bc40660c37fbaf519e8c84642e62a917e70
         name: container-image
         resources: {}
 status: {}
