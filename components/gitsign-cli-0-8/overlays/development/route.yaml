@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: gitsign-cli-0-8
     app.kubernetes.io/part-of: cli-1-0-gamma
-  name: gitsign-cli-0-8ycom
+  name: gitsign-cli-0-8mqov
 spec:
   port:
     targetPort: 8080
