@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: cosign-cli-2-2
     app.kubernetes.io/part-of: cli-1-0-gamma
-  name: cosign-cli-2-2o2ic
+  name: cosign-cli-2-2mo2n
 spec:
   port:
     targetPort: 8080
