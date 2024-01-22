@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/rhtas-tenant/cli-1-0-gamma/gitsign-cli-0-8@sha256:071ba3450607642f2bd576a1e6a55f68e069c0b5dc938903887ab538af1bd8a2
+      - image: quay.io/redhat-user-workloads/rhtas-tenant/cli-1-0-gamma/gitsign-cli-0-8@sha256:b8fae228a3e6dd53bfae8f23d44c8e08b4997a62f429f416401657fd54024d83
         name: container-image
         resources: {}
 status: {}
