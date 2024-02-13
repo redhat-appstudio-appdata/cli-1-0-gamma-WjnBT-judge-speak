@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: cli-1-0-gamma
   name: gitsign-cli-0-8
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
